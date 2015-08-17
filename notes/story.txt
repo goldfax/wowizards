@@ -1,7 +1,10 @@
 Story ideas go here:
 
-Players are wizards that can create spells, goal of the game is to reign suprem.e over the npc wizards, in other words control more territories than the other characters using
-spells and armies to conquer those territories. A Risk like strategy game in which there are turns. Players can choose to change their play style by changing the types of magic that they use, allows for different tactics.
+Players are wizards that can create spells, goal of the game is to reign supreme over 
+the npc wizards, in other words control more territories than the other characters using
+spells and armies to conquer those territories. A Risk like strategy game in which there
+ are turns. Players can choose to change their play style by changing the types of magic
+ that they use, allows for different tactics.
 
 List of Spells (takes time to research and combine spells):
 	Basic Magic Types:
@@ -12,22 +15,57 @@ List of Spells (takes time to research and combine spells):
 		Water
 			Can use the flowing arts of water manipulation, is effective against fire magic.
 			Ice Magic
-				A sub part of water magic, this is the magic created when sufficiently cooling the water molecules used in water magic to form ice.
+				A sub part of water magic, this is the magic created when sufficiently cooling 
+				the water molecules used in water magic to form ice.
 		Wind
-			Wind magic is the ability to control the wind in order to move it. Wind magic is a starting point for lightning magic.
-			Lightning Magic is a sub part of wind magic. You need several different types of magic to create lightning magic.
+			Wind magic is the ability to control the wind in order to move it. Wind magic is a
+			starting point for lightning magic.
+			Lightning Magic is a sub part of wind magic. You need several different types of
+			 magic to create lightning magic.
 		Light
-			Light magic is effective against the dark, useful in situations where one cannot see it, also has the effect of healing someone, can be considered to be a magic for those of "good" alignment.
+			Light magic is effective against the dark, useful in situations where one cannot 
+			see it, also has the effect of healing someone, can be considered to be a magic 
+			for those of "good" alignment.
 		Dark 
-			Dark magic is effective against the light, useful in surprise tactics, is used for cursing, can be considered as a magic for those of "evil" alignment.
+			Dark magic is effective against the light, useful in surprise tactics, is used for
+			 cursing, can be considered as a magic for those of "evil" alignment.
 		Psychic
-			Mind magic, a more mysterious magic where one would influence anothers thoughts, using this kind of mind magic. There are many uses for this kind of magic and it would be the most versatile of magics.
+			Mind magic, a more mysterious magic where one would influence anothers thoughts, 
+			using this kind of mind magic. There are many uses for this kind of magic and it 
+			would be the most versatile of magics.
 
-There are many ways one can combine these magics. First off there are no set spells the game engine will force you to make your own spells so as to get a good lead. This means that ones skill level is based on their imagination and ingenuity with manipulating magic. The AI has to be smart enough to be able to read what their opponent is doing and cut him off from doing that, but the AI should only do things that are beneficial for themselves that is, if they are weak, they should ally with a strong opponent, leech until they are stronger and then try and overtake the ally. If there is a strong AI, the AI should definitely try to become the strongest, but this means only declaring war against those who it would have a sure fire win against. The AI will only research magic in a way to try and counter all of the opponents. This means that if one researches light, the AI will research Dark, and other things to counteract whatever it should so that it will reach a level of magic cultivation that it simply cannot be beat. This should mean that the AI will have thought of all of the user strategies, strong AI strategies and picked a strategy to defend against those.
+There are many ways one can combine these magics. First off there are no set spells the 
+game engine will force you to make your own spells so as to get a good lead. This means 
+that ones skill level is based on their imagination and ingenuity with manipulating 
+magic. The AI has to be smart enough to be able to read what their opponent is doing and 
+cut him off from doing that, but the AI should only do things that are beneficial for 
+themselves that is, if they are weak, they should ally with a strong opponent, leech 
+until they are stronger and then try and overtake the ally. If there is a strong AI, the
+ AI should definitely try to become the strongest, but this means only declaring war 
+ against those who it would have a sure fire win against. The AI will only research 
+ magic in a way to try and counter all of the opponents. This means that if one 
+ researches light, the AI will research Dark, and other things to counteract wha
+ tever it should so that it will reach a level of magic cultivation that it simply 
+ cannot be beat. This should mean that the AI will have thought of all of the user 
+ strategies, strong AI strategies and picked a strategy to defend against those.
 
-The user will be able to pick their own name, and maybe race which might have something to do with stats, there may or may not be stats in this game. The basis of the game is to stay ahead of the AI in terms of researching magic, and also to try and conquer the AI territory. There may be a multiplayer mode sometime in the future. The user will also be able to input his own ideas about magic research, formulation, and creation in order to advance in the game. This system will take the longest to get right as it deals with a relatively advanced sounding AI system.
+The user will be able to pick their own name, and maybe race which might have something 
+to do with stats, there may or may not be stats in this game. The basis of the game is 
+to stay ahead of the AI in terms of researching magic, and also to try and conquer the 
+AI territory. There may be a multiplayer mode sometime in the future. The user will also
+ be able to input his own ideas about magic research, formulation, and creation in order
+  to advance in the game. This system will take the longest to get right as it deals 
+  with a relatively advanced sounding AI system.
  
-To learn how the user wants to begin with refining his type of magic, the first thing to do would be to prompt the user to describe exactly what he is thinking of doing in regards to the magic, and then by reading the input string, will the AI be able to create that type of magic training for him. There should be levels for magic cultivation.
+To learn how the user wants to begin with refining his type of magic, the first thing to 
+do would be to prompt the user to describe exactly what he is thinking of doing in 
+regards to the magic, and then by reading the input string, will the AI be able to 
+create that type of magic training for him. There should be levels for magic cultivation.
 
-The first iteration of the game should simply be something where the person will be able to use the system to create their magic. This is the most important detail about this game; the combination of magic and the creation of new spells based on imagination of the user. The system will have some limitations, but in order to counteract that there will definitely be various methods such as giving a large amount of possibilities for the creation of spells.
+The first iteration of the game should simply be something where the person will be able 
+to use the system to create their magic. This is the most important detail about this 
+game; the combination of magic and the creation of new spells based on imagination of 
+the user. The system will have some limitations, but in order to counteract that there 
+will definitely be various methods such as giving a large amount of possibilities for 
+the creation of spells.
 
